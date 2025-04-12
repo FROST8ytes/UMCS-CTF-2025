@@ -1,5 +1,27 @@
 # UMCS CTF 2025 Writeup
 
+- [UMCS CTF 2025 Writeup](#umcs-ctf-2025-writeup)
+  - [1.0 http-server](#10-http-server)
+    - [1.1 Description](#11-description)
+    - [1.2 Category](#12-category)
+    - [1.3 Attachments](#13-attachments)
+    - [1.4 Solution](#14-solution)
+  - [2.0 healthcheck](#20-healthcheck)
+    - [2.1 Description](#21-description)
+    - [2.2 Category](#22-category)
+    - [2.3 Attachments](#23-attachments)
+    - [2.4 Solution](#24-solution)
+  - [3.0 babysc](#30-babysc)
+    - [3.1 Description](#31-description)
+    - [3.2 Category](#32-category)
+    - [3.3 Attachments](#33-attachments)
+    - [3.4 Solution](#34-solution)
+  - [4.0 liveleak](#40-liveleak)
+    - [4.1 Description](#41-description)
+    - [4.2 Category](#42-category)
+    - [4.3 Attachments](#43-attachments)
+    - [4.4 Solution](#44-solution)
+
 ## 1.0 http-server
 
 ### 1.1 Description
